@@ -24,3 +24,5 @@ static unsigned int lines      = 0;
  * for example: " /?\"&[]"
  */
 static const char worddelimiters[] = " ";
+
+//current_theme=github-dark-default
